@@ -1,4 +1,4 @@
-package com.movierating.microservice.moviecatalog;
+package com.movierating.microservice.moviecatalog.Models;
 
 public class CatalogItem {
 
